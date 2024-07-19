@@ -28,3 +28,5 @@ the fetch data interface will ask for the necessary details for fetching. after 
 We did this project as a part of our lab work, as well internship under a company so, i'll provide links for the documents that are required to know more about this project.
 
 Presentation: https://docs.google.com/presentation/d/18IeisaVOYi2m9Zo08vVQEMce8bF8h4O7/edit?usp=drive_link&ouid=103828244439120671270&rtpof=true&sd=true
+Certification for completion of the project: https://drive.google.com/file/d/1f80lgSCMV_5I2hHOiHjluhj8qofICm_L/view?usp=drive_link
+Project Report: https://drive.google.com/file/d/1lvh_Al2eAzgGgZnkMFbhKZmO73g2Z_6f/view?usp=drive_link
