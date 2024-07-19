@@ -24,3 +24,7 @@ then:
 2)backtest: backtest will redirect you to a page where backtest. initially before backtesting, make sure you had run the "fetch data" code, and have sufficient amount of data fetched in it.
 
 the fetch data interface will ask for the necessary details for fetching. after fetching, the code will redirect to "backtest" page, after which when you go to the parent folder, in the data folder, you can see a csv called "fetched_data" in which ohlc details will be stored then you can go backtest, give necessary details, and when you start the backtest, after successful backtest, in the parent directory, a csv called "backtest_result" will be saved in which the backtest of each buy and sell, and net profit, profit percent and other details will be saved
+
+We did this project as a part of our lab work, as well internship under a company so, i'll provide links for the documents that are required to know more about this project.
+
+Presentation: https://docs.google.com/presentation/d/18IeisaVOYi2m9Zo08vVQEMce8bF8h4O7/edit?usp=drive_link&ouid=103828244439120671270&rtpof=true&sd=true
